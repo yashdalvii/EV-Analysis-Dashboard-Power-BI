@@ -1,7 +1,4 @@
 # EV-Population-Analysis-Dashboard-Power-BI
-Here’s a description for your **Electric Vehicle Analysis Dashboard**:
-
----
 
 ### **Dashboard Overview**
 This interactive **Electric Vehicle Analysis Dashboard** provides a comprehensive view of electric vehicle (EV) data across various dimensions, enabling users to explore trends, adoption patterns, and vehicle statistics. The dashboard is designed to facilitate quick decision-making and data-driven insights regarding EV adoption and performance.
