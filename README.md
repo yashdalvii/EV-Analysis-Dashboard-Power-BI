@@ -35,3 +35,4 @@ This interactive **Electric Vehicle Analysis Dashboard** provides a comprehensiv
    - Offers a quick comparison of model-wise market share.
 
 ----
+# **Tools Used: Excel, Power BI**
